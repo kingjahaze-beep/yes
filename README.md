@@ -1,0 +1,2 @@
+# yes
+svg files!
